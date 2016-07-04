@@ -39,7 +39,7 @@ def handle(text,mic,profile):
         mic.say('record your voice after high beep.')
 	mic.activeListen()
 	if authorize():
-             mic.say('Authetication successfull')
+             mic.say('Authetication successful')
              mic.say('This will reset all peripherals')
              mic.say('Should I continue?')
              reply = mic.activeListen()
