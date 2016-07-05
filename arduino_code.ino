@@ -15,7 +15,7 @@
 #define LOGO16_GLCD_HEIGHT 16 
 #define LOGO16_GLCD_WIDTH  16 
 
-/* Error values are for tuning the TARS's legs position. 
+/* Error values are for tuning the TARS' legs position. 
  * Do not change speed
  * Error values depends on SPEED.
  */
