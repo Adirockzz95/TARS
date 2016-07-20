@@ -1,7 +1,7 @@
 import re
 
 from piwho import recognition
-from lium import genderdetect as gd
+from gdetect import genderdetect as gd
 
 WORDS = ["HELLO","TARS"]
 
